@@ -1,0 +1,15 @@
+@media all and (min-width: 780px){
+    html {
+        font-size: 80%;
+    }
+
+    header {
+        height: 130px;
+    }
+
+    header img {
+        max-height: 100px;
+        margin-top: 20px;
+        height:auto;
+    }
+}
